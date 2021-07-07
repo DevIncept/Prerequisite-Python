@@ -4,7 +4,7 @@ Markdown is a lightweight markup language with plain text formatting syntax. Wha
 
 ## Why Markdown
 
-* **Easy** The syntax is very simple.
+* **Easy:** The syntax is very simple.
 
 * **Fast:**  It speeds up the workflows.
 
@@ -215,7 +215,7 @@ Till now we got to know some important
 
 We have seen the basic features of markdown till now, but superpower of markdown is, You can directly use HTML in it.
 
-> Somw times it becomes a little difficult to do some complex thigs in markdown, so using HTML that time can make it work.
+> Some times it becomes a little difficult to do some complex things in markdown, so using HTML that time can make it work.
 
 **<ins>Input:</ins>**
 
